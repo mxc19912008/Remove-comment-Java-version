@@ -1,5 +1,5 @@
 # Remove-comment-Java-version
-## This is a tiny tool to remove java comments(/*,*,*/,//), in the same time remaining origional format.
+## This is a tiny tool to remove java comments(/*,*,*/,//), at the same time remaining origional format.
 ### Please note that this tool uses an external lib: edu.duke.*; 
 
 
