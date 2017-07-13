@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=Filename\ f
+comment0.target=void\ cleanComments(java.lang.String,\ edu.duke.FileResource)
+comment1.params=
+comment1.target=void\ test()
+numComments=2
